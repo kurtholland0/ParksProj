@@ -1,10 +1,7 @@
 import csv
 import os
 
-# Get the user's home directory
 home_dir = os.path.expanduser("~")
-
-# Construct the full file paths
 file_path = os.path.join(home_dir, "Downloads", "Parks.csv")
 
 def delete_zeroes(file, output):
