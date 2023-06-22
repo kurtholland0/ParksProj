@@ -1,64 +1,63 @@
-Latitude,Longitude
-44.35°N,68.21°W
-14.25°S,170.68°W
-38.68°N,109.57°W
-43.75°N,102.50°W
-29.25°N,103.25°W
-25.65°N,80.08°W
-38.57°N,107.72°W
-37.57°N,112.18°W
-38.2°N,109.93°W
-38.20°N,111.17°W
-32.17°N,104.44°W
-34.01°N,119.42°W
-33.78°N,80.78°W
-42.94°N,122.1°W
-41.24°N,81.55°W
-36.24°N,116.82°W
-63.33°N,150.50°W
-24.63°N,82.87°W
-25.32°N,80.93°W
-67.78°N,153.30°W
-38.63°N,90.19°W
-48.80°N,114.00°W
-58.50°N,137.00°W
-36.06°N,112.14°W
-43.73°N,110.80°W
-38.98°N,114.30°W
-37.73°N,105.51°W
-35.68°N,83.53°W
-31.92°N,104.87°W
-20.72°N,156.17°W
-19.38°N,155.20°W
-34.51°N,93.05°W
-41.6533°N,87.0524°W
-48.10°N,88.55°W
-33.79°N,115.90°W
-58.50°N,155.00°W
-59.92°N,149.65°W
-36.80°N,118.55°W
-67.55°N,159.28°W
-60.97°N,153.42°W
-40.49°N,121.51°W
-37.18°N,86.10°W
-37.18°N,108.49°W
-46.85°N,121.75°W
-38.07°N,81.08°W
-48.70°N,121.20°W
-47.97°N,123.50°W
-35.07°N,109.78°W
-36.48°N,121.16°W
-41.30°N,124.00°W
-40.40°N,105.58°W
-32.25°N,110.50°W
-36.43°N,118.68°W
-38.53°N,78.35°W
-46.97°N,103.45°W
-18.33°N,64.73°W
-48.50°N,92.88°W
-32.78°N,106.17°W
-43.57°N,103.48°W
-61.00°N,142.00°W
-44.60°N,110.50°W
-37.83°N,119.50°W
-37.30°N,113.05°W
+Park,Latitude,Longitude
+Acadia National Park,44.35Â°N,68.21Â°W
+Arches National Park,14.25Â°S,170.68Â°W
+Badlands National Park,38.68Â°N,109.57Â°W
+Big Bend National Park,43.75Â°N,102.50Â°W
+Biscayne National Park,29.25Â°N,103.25Â°W
+Black Canyon of the Gunnison National Park,25.65Â°N,80.08Â°W
+Bryce Canyon National Park,38.57Â°N,107.72Â°W
+Canyonlands National Park,37.57Â°N,112.18Â°W
+Capitol Reef National Park,38.2Â°N,109.93Â°W
+Carlsbad Caverns National Park,38.20Â°N,111.17Â°W
+Channel Islands National Park,32.17Â°N,104.44Â°W
+Congaree National Park,34.01Â°N,119.42Â°W
+Crater Lake National Park,33.78Â°N,80.78Â°W
+Cuyahoga Valley National Park,42.94Â°N,122.1Â°W
+Death Valley National Park,41.24Â°N,81.55Â°W
+Denali National Park and Preserve,36.24Â°N,116.82Â°W
+Dry Tortugas National Park,63.33Â°N,150.50Â°W
+Everglades National Park,24.63Â°N,82.87Â°W
+Gates of the Arctic National Park and Preserve,25.32Â°N,80.93Â°W
+Gateway Arch National Park,67.78Â°N,153.30Â°W
+Glacier Bay National Park and Preserve,38.63Â°N,90.19Â°W
+Grand Canyon National Park,48.80Â°N,114.00Â°W
+Grand Teton National Park,58.50Â°N,137.00Â°W
+Great Basin National Park,36.06Â°N,112.14Â°W
+Great Sand Dunes National Park and Preserve,43.73Â°N,110.80Â°W
+Great Smoky Mountains National Park,38.98Â°N,114.30Â°W
+Guadalupe Mountains National Park,37.73Â°N,105.51Â°W
+HaleakalÄ National Park,35.68Â°N,83.53Â°W
+HawaiÊ»i Volcanoes National Park,31.92Â°N,104.87Â°W
+Hot Springs National Park,20.72Â°N,156.17Â°W
+Indiana Dunes National Park,19.38Â°N,155.20Â°W
+Isle Royale National Park,34.51Â°N,93.05Â°W
+Joshua Tree National Park,41.6533Â°N,87.0524Â°W
+Katmai National Park and Preserve,48.10Â°N,88.55Â°W
+Kenai Fjords National Park,33.79Â°N,115.90Â°W
+Kings Canyon National Park,58.50Â°N,155.00Â°W
+Kobuk Valley National Park,59.92Â°N,149.65Â°W
+Lake Clark National Park and Preserve,36.80Â°N,118.55Â°W
+Lassen Volcanic National Park,67.55Â°N,159.28Â°W
+Mackinac National Park,60.97Â°N,153.42Â°W
+Mammoth Cave National Park,40.49Â°N,121.51Â°W
+Mesa Verde National Park,37.18Â°N,86.10Â°W
+Mount Rainier National Park,37.18Â°N,108.49Â°W
+New River Gorge National Park and Preserve,46.85Â°N,121.75Â°W
+North Cascades National Park,38.07Â°N,81.08Â°W
+Olympic National Park,48.70Â°N,121.20Â°W
+Petrified Forest National Park,47.97Â°N,123.50Â°W
+Pinnacles National Park,35.07Â°N,109.78Â°W
+Rocky Mountain National Park,36.48Â°N,121.16Â°W
+Saguaro National Park,41.30Â°N,124.00Â°W
+Sequoia National Park,40.40Â°N,105.58Â°W
+Shenandoah National Park,32.25Â°N,110.50Â°W
+Theodore Roosevelt National Park,36.43Â°N,118.68Â°W
+Virgin Islands National Park,38.53Â°N,78.35Â°W
+Voyageurs National Park,46.97Â°N,103.45Â°W
+Waterfalls in Yellowstone National Park,18.33Â°N,64.73Â°W
+White Sands National Park,48.50Â°N,92.88Â°W
+Wind Cave National Park,32.78Â°N,106.17Â°W
+Wrangellâ€“St. Elias National Park and Preserve,43.57Â°N,103.48Â°W
+Yellowstone National Park,61.00Â°N,142.00Â°W
+Yosemite National Park,44.60Â°N,110.50Â°W
+Zion National Park,37.83Â°N,119.50Â°W
